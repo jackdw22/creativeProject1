@@ -1,7 +1,4 @@
-.footer-image{
-  position: fixed;
-  bottom: 0;
-  right: 0;
-  width: 7%;
-  height: auto;
+.thefooter{
+  height: 1000px;
+  background-color: red;
 }
