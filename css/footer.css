@@ -2,3 +2,24 @@
   height: 1000px;
   background-color: red;
 }
+.twitter{
+  color: #55acee;
+}
+.instagram{
+  color: #ac2bac;
+}
+.facebook{
+  color: #3b5998;
+}
+.github{
+  color: #1b1e22;
+}
+
+.twitter:hover,
+.instagram:hover,
+.facebook:hover,
+.github:hover{
+
+color:black;
+
+}
