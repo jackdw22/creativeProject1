@@ -20,16 +20,51 @@ img{
   margin: 20px;
 }
 
+.sortBar{
+  display: none;
+}
 
+.filterBox{
+  display: none;
+}
 
-@media (min-width: 500px) {
+@media (min-width: 800px) {
+
+  h2{
+    text-align: center;
+  }
+  .filter{
+    display: none;
+  }
+  .sortBar{
+    display: flex;
+    width: 200px;
+    margin-left: auto;
+
+  }
+  #sortText{
+    width: 150px;
+    margin: auto 0;
+  }
+  .filterBox{
+    display: block;
+    margin-top: 20px;
+  }
+  .top{
+    border-bottom: solid;
+    padding-bottom: 10px;
+  }
+}
+
+@media (min-width: 1000px){
   .items{
     display: grid;
     grid-template-columns: repeat(2, 3fr);
-    margin: 20px;
+    padding: 20px;
+    border-left: solid;
   }
 
   .itemPair{
-    margin: 10px; 
+    margin: 10px;
   }
 }
