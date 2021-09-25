@@ -9,7 +9,7 @@
   border-bottom: solid 2px;
 }
  .summaryHeader{
-   padding: 10px 0; 
+   padding: 10px 0;
  }
 
 
@@ -30,4 +30,11 @@
     padding: 10px;
   }
 
+}
+
+
+.btn{
+  background: #b14623;
+  margin: 15px;
+  color: white; 
 }

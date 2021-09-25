@@ -1,0 +1,32 @@
+
+
+
+*{
+  font-family: cursive;
+  }
+
+div{
+  color: #3e1c33;
+}
+
+
+.navbar{
+  background-color: #602749;
+}
+
+.navbar-brand, button.navbar-toggler, .nav-link, .dropdown-item, #list{
+  color: #f6921d;
+}
+
+.nav-link:hover, .navbar-brand:hover, a.dropdown-item:hover, .active{
+  color: #b14623;
+}
+
+
+.navbar-brand{
+  font-size: 30px;
+}
+
+.dropdown-menu{
+  background-color:#3e1c33
+}
