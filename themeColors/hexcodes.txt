@@ -1,0 +1,4 @@
+#3e1c33 - Dark Purple
+#602749 - Light Purple
+#b14623 - Darker orange
+#f6921d - Lighter orange
