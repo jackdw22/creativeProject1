@@ -55,7 +55,6 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
   text-align: left;
   background-color: #fff; }
 
@@ -8144,7 +8143,7 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #46b5d1; }
+  color: #b14623; }
   a:hover, a:focus {
     text-decoration: none !important;
     outline: none !important;
@@ -8159,7 +8158,7 @@ h1, h2, h3, h4, h5,
   color: #000; }
 
 .bg-primary {
-  background: #46b5d1 !important; }
+  background: #b14623 !important; }
 
 .ftco-section {
   padding: 4em 0; }
@@ -8201,7 +8200,7 @@ h1, h2, h3, h4, h5,
     /* Firefox 18- */
     color: rgba(0, 0, 0, 0.3) !important; }
   .form-control:focus, .form-control:active {
-    border-color: #46b5d1 !important; }
+    border-color: #b14623 !important; }
 
 textarea.form-control {
   height: inherit !important; }
@@ -8229,12 +8228,12 @@ textarea.form-control {
       font-weight: 500;
       color: #000; }
     .dbox p a {
-      color: #46b5d1; }
+      color: #b14623; }
   .dbox .icon {
     width: 60px;
     height: 60px;
     border-radius: 50%;
-    background: #46b5d1;
+    background: #b14623;
     margin: 0 auto;
     margin-bottom: 20px; }
     .dbox .icon span {
@@ -8266,8 +8265,8 @@ textarea.form-control {
   .btn:hover, .btn:active, .btn:focus {
     outline: none !important; }
   .btn.btn-primary {
-    background: #46b5d1 !important;
-    border-color: #46b5d1 !important;
+    background: #b14623 !important;
+    border-color: #b14623 !important;
     color: #fff; }
     .btn.btn-primary:hover, .btn.btn-primary:focus {
       border-color: #2d9bb7 !important;
